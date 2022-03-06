@@ -15,28 +15,20 @@ The files "reconstructedText5dB.txt", "reconstructedText15dB.txt" are outputs.
 - Signal Sampling with different frequencies
 - Observation of Aliasing effect
 - Reconstruction of the signal from its samples
-
-
-
+------------------------------------------------
 - Mid-Rise quantization and standard deviation calculation
 - BPSK, QPSK, 8-PSK modulations and their constellation diagrams
 - Effect of AWGNoise at BPAM signal and its constellation diagram
 - Bit Error Rate calculation and comparison with the theoretical values
-
-
-
+-------------------------------------------------
 - QPSK modulation with (π/4) Gray coding
 - Effect of AWGNoise at the QPSK signal and its constellation diagram
 - Bit Error Rate calculation and comparison with the theoretical values
-
-
-
+-------------------------------------------------
 - Read txt file, convert to ASCII, quantize, QPSK modulation with gray mapping
 - AWGNoise to the signal, reconstruction and BER calculation
 - Output the reconstructed texts and observe any mistakes
-
-
-
+-------------------------------------------------
 - Read wav file, quantize, QPSK modulation with gray mapping
 - AWGNoise to the signal, reconstruction and BER calculation
 - Output the reconstructed wav files and observe any sound distortions
