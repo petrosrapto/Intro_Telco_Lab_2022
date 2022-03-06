@@ -12,6 +12,7 @@ The files "rice_odd.txt", "soundfile1_lab2.wav" are inputs.\
 The files "reconstructedText5dB.txt", "reconstructedText15dB.txt" are outputs.
 
 ### Synoptical Task Presentation 
+------------------------------------------------
 - Signal Sampling with different frequencies
 - Observation of Aliasing effect
 - Reconstruction of the signal from its samples
@@ -32,3 +33,4 @@ The files "reconstructedText5dB.txt", "reconstructedText15dB.txt" are outputs.
 - Read wav file, quantize, QPSK modulation with gray mapping
 - AWGNoise to the signal, reconstruction and BER calculation
 - Output the reconstructed wav files and observe any sound distortions
+-------------------------------------------------
